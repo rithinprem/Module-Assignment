@@ -1,0 +1,17 @@
+README.md
+setup.py
+Ecommerce/__init__.py
+Ecommerce/order_processing.py
+Ecommerce/product_management.py
+Ecommerce/utils.py
+Ecommerce.egg-info/PKG-INFO
+Ecommerce.egg-info/SOURCES.txt
+Ecommerce.egg-info/dependency_links.txt
+Ecommerce.egg-info/top_level.txt
+ecommerce.egg-info/PKG-INFO
+ecommerce.egg-info/SOURCES.txt
+ecommerce.egg-info/dependency_links.txt
+ecommerce.egg-info/top_level.txt
+tests/__init__.py
+tests/test_order_processing.py
+tests/test_product_management.py
